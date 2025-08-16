@@ -290,13 +290,13 @@ align-items: center
 }
 
 .news-background{
-    background: greenyellow;
+    background-image: url(img/newsupper.png);
     width: 703px;
     height: 470px;
     background-repeat: no-repeat;
     margin-left: 118px;
     margin-top: 47px;
-    
+    padding-left: 110px;
     
 }
 #news{
